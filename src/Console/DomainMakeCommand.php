@@ -80,6 +80,7 @@ class DomainMakeCommand extends Command
             'Http/Controllers',
             'Http/Middleware',
             'Http/Requests',
+            'Http/Resources',
             'Repositories',
             'Models',
             'routes',
