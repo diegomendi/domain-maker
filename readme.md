@@ -1,5 +1,6 @@
 # Domain Maker for Laravel
 
+## Custom branch
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 ## The Why
